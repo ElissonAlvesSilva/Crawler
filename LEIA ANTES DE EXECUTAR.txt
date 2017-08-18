@@ -1,0 +1,14 @@
+
+Forma de execução do código:
+
+python <caminhoDoArquivoDeUrls.txt> <caminhoDoArquivoDeResultado.txt>
+
+Codigo envia em zip devido a ter algumas classes para funcionamento do projeto
+
+Codigo feito em python 3, orientado a objetos
+São necessárias alguma bibliotecas a serem instaladas para funcionamento do código corretamente.
+
+1 - lxml
+2 - BeautifulSoup4
+3 - pip
+
